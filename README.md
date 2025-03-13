@@ -17,9 +17,6 @@ This book aims to:
 - Offer practical examples you can copy and adapt.
 - Serve as a quick reference for both beginners and experienced users.
 
-### How to Use This Guide
-
-Navigate through the sections using the table of contents (if included in a larger book) or explore individual topics as standalone files. Each section includes syntax explanations, examples, and tips to enhance your Markdown skills.
 
 Feel free to jump to any topic that interests you, or read sequentially to build your knowledge from the ground up.
 
