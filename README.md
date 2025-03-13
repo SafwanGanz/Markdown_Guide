@@ -1,9 +1,9 @@
-# ![Markdown Reference Book Header](https://i.ibb.co/KxNHtBy1/images-3.jpg)  
+![Markdown Reference Book Header](https://i.ibb.co/KxNHtBy1/images-3.jpg)  
 ## Introduction
 
 ### Overview
 
-Welcome to the **Markdown Reference Book**! This guide is designed to help you master Markdown, a lightweight and versatile markup language used for formatting plain text. Whether you're writing documentation, creating blog posts, or formatting notes, Markdown offers a simple and efficient way to add structure and style without complex tools.
+Welcome to the **Markdown Guide**! This guide is designed to help you master Markdown, a lightweight and versatile markup language used for formatting plain text. Whether you're writing documentation, creating blog posts, or formatting notes, Markdown offers a simple and efficient way to add structure and style without complex tools.
 
 ### What is Markdown?
 
