@@ -9,17 +9,6 @@ Welcome to the **Markdown Guide**! This guide is designed to help you master Mar
 
 Markdown was created in 2004 by John Gruber, with contributions from Aaron Swartz, as a way to write for the web using easy-to-read and easy-to-write plain text that converts cleanly to HTML. Its simplicity has made it a popular choice for developers, writers, and content creators across platforms like GitHub, Reddit, and various static site generators.
 
-### Purpose of This Reference Book
-
-This book aims to:
-
-- Provide a clear and concise explanation of Markdown syntax.
-- Offer practical examples you can copy and adapt.
-- Serve as a quick reference for both beginners and experienced users.
-
-
-Feel free to jump to any topic that interests you, or read sequentially to build your knowledge from the ground up.
-
 ### Next Steps
 
 Start with the [Basic Syntax](#basic-syntax) 
