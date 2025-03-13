@@ -11,4 +11,4 @@ Markdown was created in 2004 by John Gruber, with contributions from Aaron Swart
 
 ### Next Steps
 
-Start with the [Basic Syntax](#basic-syntax) 
+Start with the [Basic Syntax](BasicSyntax.md) 
